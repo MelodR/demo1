@@ -1,4 +1,4 @@
-public static void main(String args[]){
+﻿public static void main(String args[asd]){
 Books[] myBooks = new Books[3];
 int x = 0;
 //创建books对象
@@ -18,7 +18,8 @@ while(x<3){
 System.out.println(myBooks[x].title);
 System.out.println("by");
 System.out.println(myBooks[x].author);
-x=x+1;
+x=x+1
+孙浩轩！！！！！
 }
 }
 
